@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes 1,470 employee records to explore workforce structure, compensation and tenure.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Dataset
 - **Records:** 1,470 employees
